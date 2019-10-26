@@ -1,5 +1,5 @@
 {
-  "name": "012-building-a-dungeon-crawler-pt-1",
+  "name": "BudgetPursuit",
   "version": "1.0.0",
   "devDependencies": {
     "react-scripts": "0.8.4",
@@ -16,6 +16,5 @@
     "build": "react-scripts build && cp manifest.json build/ && sw-precache --root='build/' --static-file-globs='build/**/!(*map*)'",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "homepage": "./"
+  }
 }
