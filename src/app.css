@@ -1,0 +1,11 @@
+body {
+  background: './img/test_pattern.png';
+}
+
+body .map {
+  border: 2px solid blue;
+  padding: 7px 7px 7px 7px;
+  position: fixed;
+  left: 25%;
+  top: 12.5%;
+}
